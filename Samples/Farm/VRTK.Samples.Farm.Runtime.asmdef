@@ -2,9 +2,9 @@
     "name": "VRTK.Samples.Farm.Runtime",
     "references": [
         "Zinnia.Runtime",
-        "VRTK.Prefabs.Runtime"
+        "VRTK.Prefabs.Runtime",
+        "Unity.ugui"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -17,5 +17,6 @@
         "Malimbe.XmlDocumentationAttribute.dll"
     ],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": []
 }

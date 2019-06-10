@@ -1,9 +1,9 @@
 {
     "name": "VRTK.Prefabs.Runtime",
     "references": [
-        "Zinnia.Runtime"
+        "Zinnia.Runtime",
+        "Unity.ugui"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -16,5 +16,6 @@
         "Malimbe.XmlDocumentationAttribute.dll"
     ],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": []
 }
